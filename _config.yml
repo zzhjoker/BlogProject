@@ -13,8 +13,8 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://zouzenghu.gitee.io/myblog
-root: /myblog/
+url: http://zzhblog.top/
+root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
@@ -79,7 +79,7 @@ theme: icarus
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://gitee.com/zouzenghu/myBlog.git
+  repo: https://github.com/zzhjoker/zzhjoker.github.io.git
   branch: master
   message: blog update
   cdn: test
