@@ -38,5 +38,4 @@ hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 - 错误命令：git push -u origin master
 
 * 错误原因：git 仓库中已有文件，本地文件推送时报错
-
 * 解决方法：先拉取在推送 git pull origin master

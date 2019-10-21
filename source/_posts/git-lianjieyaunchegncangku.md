@@ -48,11 +48,12 @@ git init
   `git status`命令可以让我们查看当前状态，它会告诉我们那些文件被修改过，但还没有准备提交的修改
 
 ```javascript
-PS D:\webCode> git status
-On branch dev
-Untracked files:
-  (use "git add <file>..." to include in what will be committed)
+git status
+```
 
-        source/_posts/git-gitVSsvn.md
-        source/_posts/git-lianjieyaunchegncangku.md
+- **查看修改文件**
+  `git diff`
+
+```javascript
+git diff [filename]
 ```
