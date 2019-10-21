@@ -19,6 +19,8 @@ git reset --hard HEAD^
 git reset --hard 91331759bc
 ```
 
+<!--more-->
+
 - **HEAD 指针**
   git 的版本回退极快，因为 git 在内部有一个指向当前版本的`HEAD`指针，当回退版本的时候 git 仅仅是将`HEAD`指针指向了指定的版本。然后将工作区的文件更新了，所以当`HEAD`指向那个版本号，当前版本就定位到哪。
 
