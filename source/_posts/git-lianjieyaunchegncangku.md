@@ -52,8 +52,66 @@ git status
 ```
 
 - **查看修改文件**
-  `git diff`
+  `git diff`查看当前文件被修改的地方
 
 ```javascript
 git diff [filename]
+git diff
+
+//命令行日志
++^M
++- **查看提交日志**^M
++  `git log`查看版本提交日志，包括时间，作者，版本号(q 退出命令模式，y 回退)^M
++  - 参数^M
++    只显示各个版本 ID^M
++    --pretty=oneline^M
++^M
+```
+
+- **查看提交日志**
+  `git log`查看版本提交日志，包括时间，作者，版本号(q 退出命令模式，y 回退)
+  - 参数
+    只显示各个版本 ID
+    --pretty=oneline
+
+```javascript
+git log
+
+
+//命令行日志
+commit 267154a3a72a7431a1acfb28470482f9ba93cead (HEAD -> dev)
+Author: zouzenghu <zouzenghu@163.com>
+Date:   Mon Oct 21 19:20:24 2019 +0800
+
+    修改bug
+
+commit a12138b2fd20627db5ff23aeeb7824f6ff11ea23
+Author: zouzenghu <zouzenghu@163.com>
+Date:   Mon Oct 21 19:19:11 2019 +0800
+
+    add git
+
+commit 9588632a99a6a0be8ba58340d6ef521f374f564f
+Author: zouzenghu <zouzenghu@163.com>
+Date:   Mon Oct 21 16:28:00 2019 +0800
+
+    lesson5
+
+commit e8233180e552d08d6a61c666a8d725a3b7c280f5 (master)
+Author: zouzenghu <zouzenghu@163.com>
+Date:   Mon Oct 21 11:36:25 2019 +0800
+
+    lesson3
+```
+
+```javascript
+git log --pretty=oneline
+
+
+//命令行信息
+267154a3a72a7431a1acfb28470482f9ba93cead (HEAD -> dev) 修改bug
+a12138b2fd20627db5ff23aeeb7824f6ff11ea23 add git
+9588632a99a6a0be8ba58340d6ef521f374f564f lesson5
+e8233180e552d08d6a61c666a8d725a3b7c280f5 (master) lesson3
+42c125418ff6c84f7480231a2507f5f078defdb7 gitbug
 ```
