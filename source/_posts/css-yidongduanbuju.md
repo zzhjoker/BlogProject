@@ -2,7 +2,7 @@
 title: css——移动端布局方式
 categories: Css
 toc: true
-thumbnail: https://cdn.jsdelivr.net/gh/zouzenghu/blog-cdn@1.1.2/typescript/image/foreground_bluprint.svg
+thumbnail: https://cdn.jsdelivr.net/gh/zzhjoker/hexo-cdn@1.1/css/css2.jpg
 tags:
   - CSS——移动端
 ---
@@ -11,14 +11,13 @@ tags:
 
 - 何是流动布局
   > 流动布局又称为**百分比布局**，**流体布局**，其实现方式则是大多数组件（包括主容器）都设置为百分比宽度，并根据用户的屏幕分辨率自适应，通过盒子的宽度设置百分比来根据屏幕的宽度进行伸缩，不受固定像素的限制，内容向两侧填充
+  <!--more-->
 
 * 流动布局注意事项
 
   > 为了保护移动 web 内容在正常范围显示，应该设置最大和最小值
 
-  <!--more-->
-
-* 流动布局缺点
+- 流动布局缺点
   1. 页面文字无法跟随着屏幕大小变化而变化
   2. 流式布局和 flex 布局主要针对宽度不就，无法设置高度
   3. 无法让屏幕发声变化时候元素高度和宽度等比例缩放

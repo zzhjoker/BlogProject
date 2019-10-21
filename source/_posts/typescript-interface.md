@@ -3,7 +3,7 @@ title: typescript interface
 categories:
   - Typescript
 toc: true
-thumbnail: https://cdn.jsdelivr.net/gh/zouzenghu/blog-cdn@1.1.2/typescript/image/foreground_bluprint.svg
+thumbnail: https://cdn.jsdelivr.net/gh/zzhjoker/hexo-cdn@1.0/typescript/typescript.jpg
 tags:
   - typescript接口定义
 ---

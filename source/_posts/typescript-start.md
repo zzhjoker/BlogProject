@@ -2,7 +2,7 @@
 title: Typescript
 categories: Typescript
 tags: 初识typescript
-thumbnail: https://cdn.jsdelivr.net/gh/zouzenghu/blog-cdn@1.1.2/typescript/image/foreground_bluprint.svg
+thumbnail: https://cdn.jsdelivr.net/gh/zzhjoker/hexo-cdn@1.0/typescript/typescript.jpg
 ---
 
 TypeScript 作为 JavaScript 语言的超级，它为 JavaScript 添加了可选择的类型标注，大大增强了代码的可读性和可维护性。同时，它提供最新和不断发展的 JavaScript 特性，能让我们建立更健壮的组件。

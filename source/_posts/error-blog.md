@@ -2,7 +2,7 @@
 title: npm安装全局包后无法识别自定义指令
 categories: buglog
 toc: true
-thumbnail: https://cdn.jsdelivr.net/gh/zouzenghu/blog-cdn@1.1.4/errorBlog/timg.jfif
+thumbnail: https://cdn.jsdelivr.net/gh/zzhjoker/hexo-cdn@1.1/error/bug1.png
 tags:
   - 错误日志-npm
 ---

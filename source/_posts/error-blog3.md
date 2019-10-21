@@ -1,8 +1,8 @@
 ---
-title: git
+title: git错误
 categories: bug
 toc: true
-thumbnail: https://cdn.jsdelivr.net/gh/zouzenghu/blog-cdn@1.1.4/errorBlog/timg.jfif
+thumbnail: https://cdn.jsdelivr.net/gh/zzhjoker/hexo-cdn@1.1/error/bug1.png
 tags:
   - 错误日志-webpack
 ---

@@ -2,7 +2,7 @@
 title: 包装类型对象
 categories: JavaScript
 toc: true
-thumbnail: https://cdn.jsdelivr.net/gh/zouzenghu/blog-cdn@1.1.2/typescript/image/foreground_bluprint.svg
+thumbnail: https://cdn.jsdelivr.net/gh/zzhjoker/hexo-cdn@1.0/javascript/101c1aaf13caf21d5eedb918f6be2f25.jpg
 tags:
   - 包装类型对象
 ---
