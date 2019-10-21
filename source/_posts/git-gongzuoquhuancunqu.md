@@ -10,7 +10,7 @@ tags:
 - **工作区**
   工作区就是在电脑中能正常看见的目录
   <div align="center">
-    <img src=" https://cdn.jsdelivr.net/gh/zzhjoker/hexo-cdn@1.3/git/0.png">
+    <img src=" https://cdn.jsdelivr.net/gh/zzhjoker/hexo-cdn@1.4/git/0.png">
   </div>
    <!--more-->
 
@@ -18,7 +18,7 @@ tags:
   在工作区中有一个隐藏目录`.git`，这个隐藏的文件文件是 Git 的版本库，git 的版本库中存了很多的东西，其中最重要的称为 stage 的暂存区，还有 git 自动创建的第一条分支`master`，以及指向`master`的一个指针叫`HEAD`。
 
   <div align="center">
-    <img src=" https://cdn.jsdelivr.net/gh/zzhjoker/hexo-cdn@1.3/git/0.jpg">
+    <img src=" https://cdn.jsdelivr.net/gh/zzhjoker/hexo-cdn@1.4/git/0.jpg">
   </div>
 
 * **暂存区**
@@ -27,11 +27,11 @@ tags:
   git add .
   ```
    <div align="center">
-     <img src=" https://cdn.jsdelivr.net/gh/zzhjoker/hexo-cdn@1.3/git/0 (1).jpg">
+     <img src=" https://cdn.jsdelivr.net/gh/zzhjoker/hexo-cdn@1.4/git/0 (1).jpg">
    </div>
    ```javascript
    git commit -m "Hello World"
    ```
   <div align="center">
-     <img src=" https://cdn.jsdelivr.net/gh/zzhjoker/hexo-cdn@1.3/git/0 (2).jpg">
+     <img src=" https://cdn.jsdelivr.net/gh/zzhjoker/hexo-cdn@1.4/git/0 (2).jpg">
    </div>
