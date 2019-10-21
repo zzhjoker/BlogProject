@@ -117,3 +117,10 @@ a12138b2fd20627db5ff23aeeb7824f6ff11ea23 add git
 e8233180e552d08d6a61c666a8d725a3b7c280f5 (master) lesson3
 42c125418ff6c84f7480231a2507f5f078defdb7 gitbug
 ```
+
+- **查看工作区与版本库**
+  查看当前工作区指定文件与版本库最新文件的区别
+
+```javascript
+  git diff HEAD -- <filename>
+```
