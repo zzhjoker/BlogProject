@@ -26,12 +26,12 @@ tags:
 * **查看远程仓库信息**
   如果没有与远程仓库进行关联将不会显示任何信息
 
-```javascript
-//查看远程仓库
-git remote
-//查看更详细信息
-git remote -v
-```
+  ```javascript
+  //查看远程仓库
+  git remote
+  //查看更详细信息
+  git remote -v
+  ```
 
 - **克隆本地仓库**
   将远程仓库克隆一份到本地仓库
