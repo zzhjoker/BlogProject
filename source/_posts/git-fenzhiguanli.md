@@ -14,12 +14,32 @@ tags:
 </div>
 
 - **创建分支**
+  使用 git branch dev 创建一条新的分支
 
 ```javascript
+  git branch dev
+
+  //创建dev分支并切换到dev分支上
+  git checkout -b dev
 ```
 
 - **切换分支**
+  使用 git checkout dev 切换到指定分支
+  ```javascript
+  git checkout dev
+  ```
+
+* **删除分支**
+  使用 git branch -d 删除的指定分支
+  ```javascript
+  git branch -d dev
+  ```
+
 - **合并分支**
+  使用 git merge dev 将 dev 合并到当前主分支
+  ```javascript
+  git merge dev
+  ```
 - **解决冲突**
 - **Bug 分支**
 - **Feature 分支**
