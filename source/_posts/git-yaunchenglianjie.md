@@ -10,9 +10,9 @@ tags:
 - **git 生成 sshkey**
   生成 sshkey 将 sshkey 添加到远程仓库中
 
-```javascript
-   ssh-keygen -t rsa -C "name.email"
-```
+  ```javascript
+    ssh-keygen -t rsa -C "name.email"
+  ```
 
 <!--more-->
 
@@ -57,3 +57,5 @@ git remote -v
   //如果拉取发生了错误，可以使用参数，将两条不相干的分支强行合并
   git pull origin master --allow-unrelated-histories
   ```
+
+  add test
